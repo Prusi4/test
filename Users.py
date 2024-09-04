@@ -82,3 +82,5 @@ session.close()
 df_from_sqlite = pd.read_sql('users', engine)
 print(df_from_sqlite)
 
+esto aqui random a ver si se actualiza en github # type: ignore
+
