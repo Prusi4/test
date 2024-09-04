@@ -118,3 +118,5 @@ session.close()
 
 df_from_sqlite = pd.read_sql('prodotti', engine)
 print(df_from_sqlite)
+
+otro cambio para probar en github # type: ignore
